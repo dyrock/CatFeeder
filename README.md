@@ -5,6 +5,7 @@ This project is an automatic cat feeder that can be attached to any kind of cont
 This project is driven by my born laziness and love for cats and it will be much easier for other people to take care of my cats while I'm on a trip. (Considering litter robot and a large volume fountain)
 
 1. 3D Design
+![Alt text](3d_models/assemble.PNG?raw=true "Assemble")
 2. Stepper Motor and driver
 3. Arduino/any mcu
 4. Wifi Module (optional)
